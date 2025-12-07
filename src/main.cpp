@@ -2,7 +2,10 @@
 #include <GLFW/glfw3.h>
 
 #include <iostream>
+#include <stdexcept>
+#include <cstdlib>
 #include <vector>
+#include <optional>
 
 
 constexpr unsigned int WIDTH = 800;
